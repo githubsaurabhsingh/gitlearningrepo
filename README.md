@@ -1,4 +1,4 @@
 # gitlearningrepo
 just to practice
 <br>
-Author: Saurabh Singh
+Author: Saurabh Singh (Learning Git)
